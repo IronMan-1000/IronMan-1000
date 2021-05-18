@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+
+<h2> Hey there! I'm Sagnik.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -43,7 +43,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  ![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronMan-1000&show_icons=true&theme=synthwave)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
