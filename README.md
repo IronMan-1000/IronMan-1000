@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying in Avalon Heights International School.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; I like coding and do graphics. Hobbies are to do swimming and skating.
 - ✍️ &nbsp; Learning coding from Whitehat Jr.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
